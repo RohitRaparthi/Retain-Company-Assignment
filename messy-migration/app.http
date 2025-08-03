@@ -1,0 +1,7 @@
+GET http://127.0.0.1:5009/users
+
+###
+GET http://127.0.0.1:5009/user/1
+
+###
+POST http://127.0.0.1:5009/users
